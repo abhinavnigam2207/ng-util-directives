@@ -1,0 +1,15 @@
+{
+  "name": "ng-util-directives",
+  "description": "An app for users working with angular Js 1.X and need already built commonly used directives.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/abhinavnigam2207/ng-util-directives",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "html5-boilerplate": "^5.3.0"
+  }
+}
